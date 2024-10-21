@@ -10,13 +10,19 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>yingcong@umich.edu</p>
-    <p>University of Michigan, Ann Arbor</p>
-    <p>MI 48105</p>
+    <p>Electrical Engineering and Computer Science</p>
+    University of Michigan
+    <p>Ann Arbor, MI 48105</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
+<!-- I am a fifth-year Ph.D. student in the EECS department at University of Michigan, Ann Arbor.  -->
+
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
