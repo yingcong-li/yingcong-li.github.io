@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk at 1st ICML Workshop on In-Context Learning (<a href="https://iclworkshop.github.io">ICL @ ICML 2024</a>)!
+I will be giving a talk at <b>1st ICML Workshop on In-Context Learning</b> (<a href="https://iclworkshop.github.io">ICL @ ICML 2024</a>)! See you at Vienna!
 
