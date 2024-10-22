@@ -9,9 +9,8 @@ profile:
   image: IMG_1129.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>yingcong@umich.edu</p>
-    <p>Electrical Engineering and Computer Science</p>
-    University of Michigan
+    <p><a href="mailto:yingcong@umich.edu">yingcong@umich.edu</a></p>
+    <p>EECS, University of Michigan</p>
     <p>Ann Arbor, MI 48105</p>
 
 news: true # includes a list of news items
