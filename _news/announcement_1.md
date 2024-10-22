@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper gets accepted at NeurIPS 2024! 
+One paper gets accepted by NeurIPS 2024! 
 <ul>
-    <li>[Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond](https://arxiv.org/abs/2407.10005)</li>
+    <li><a href="https://arxiv.org/abs/2407.10005">Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond</a></li>
 </ul>
