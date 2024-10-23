@@ -18,13 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<!-- I am a fifth-year Ph.D. student in the EECS department at University of Michigan, Ann Arbor.  -->
+I am a PhD student in the Department of Electrical Engineering and Computer Science at the University of Michigan (UMich), advised by [Samet Oymak](https://sota.engin.umich.edu/). I expect to complete my degree in Spring 2025. Before joining UMich, I worked with Samet Oymak at the University of California, Riverside (UCR) starting in Fall 2020. I earned my Bachelor’s degree from the University of Science and Technology of China (USTC) in 2019 and my Master’s degree from UCR in 2020.
 
+My research focuses on developing impactful machine learning methods and uncovering their underlying mechanisms. I currently focus on the mathematical understanding of sequence models and exploring the emergent behaviors in generative models. I am always open to new research directions in advancing AI and reducing human labor.
 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy hiking, climbing, and trying out new activities (and, of course, researching :smirk:).
