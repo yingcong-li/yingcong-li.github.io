@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-<p>I will be giving a talk at <b>1st ICML Workshop on In-Context Learning</b> (<a href="https://iclworkshop.github.io">ICL @ ICML 2024</a>)! </p>
+I will be giving a talk at <b>1st ICML Workshop on In-Context Learning</b> (<a href="https://iclworkshop.github.io">ICL @ ICML 2024</a>)! 
 
-<p>See you in Vienna!</p>
+See you in Vienna!
 
