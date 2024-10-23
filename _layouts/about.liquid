@@ -43,9 +43,8 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        news 
+        news (<a href="{{ '/news/' | relative_url }}" style="color: inherit">full</a>)
       </h2>
-      (<a href="{{ '/news/' | relative_url }}" style="color: inherit">full</a>)
       {% include news.liquid limit=true %}
     {% endif %}
 
@@ -60,9 +59,8 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        selected publications 
+        selected publications (<a href="{{ '/publications/' | relative_url }}" style="color: inherit">full</a>)
       </h2>
-      (<a href="{{ '/publications/' | relative_url }}" style="color: inherit">full</a>)
       {% include selected_papers.liquid %}
     {% endif %}
 
