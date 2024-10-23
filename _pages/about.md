@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p><a href="mailto:yingcong@umich.edu">yingcong@umich.edu</a></p>
     <p>EECS, University of Michigan</p>
-    <p>Ann Arbor, MI 48105</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,4 +21,4 @@ I am a PhD student in the Department of Electrical Engineering and Computer Scie
 
 My research focuses on developing impactful machine learning methods and uncovering their underlying mechanisms. I currently focus on the mathematical understanding of sequence models and exploring the emergent behaviors in generative models. I am always open to new research directions in advancing AI and reducing human labor.
 
-In my free time, I enjoy hiking, climbing, and trying out new activities (and, of course, researching :blush:).
+In my free time, I enjoy hiking, rock climbing, and trying out new activities (and, of course, researching :blush:).
