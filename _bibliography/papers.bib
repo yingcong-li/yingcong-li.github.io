@@ -4,11 +4,13 @@
 @article{li2024fine,
   title={Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond},
   author={Li, Yingcong and Rawat, Ankit Singh and Oymak, Samet},
-  journal={arXiv preprint arXiv:2407.10005},
+  journal={Advances in Neural Information Processing Systems},
   year={2024},
-  abbr={in submission},
+  abbr={NeurIPS},
   arxiv={2407.10005},
-  selected={true}
+  selected={true},
+  abstract={In this work, we develop a stronger characterization of the optimization landscape of ICL through contributions on architectures, low-rank parameterization, and correlated designs: (1) We study the landscape of 1-layer linear attention/H3 models and prove that both implement 1-step preconditioned gradient descent (PGD). Additionally, thanks to its native convolution filters, H3 also has the advantage of implementing sample weighting and outperforming linear attention. (2) We provide new risk bounds for RAG and task-feature alignment which reveal how ICL sample complexity benefits from distributional alignment. (3) We derive the optimal risk for low-rank parameterized attention weights in terms of covariance spectrum. Through this, we also shed light on how LoRA can adapt to a new distribution by capturing the shift between task covariances.},
+  preview={fine-grained.pdf}
 }
 
 
@@ -20,7 +22,8 @@
   year={2024},
   abbr={ICML},
   arxiv={2402.13512},
-  selected={true}
+  selected={true},
+  abstract={In this work, we study learning a 1-layer self-attention model from a set of prompts and associated output data sampled from the model. We first establish a precise mapping between the self-attention mechanism and Markov models. Building on this formalism, we develop identifiability/coverage conditions for the prompt distribution and establish sample complexity guarantees under IID samples. Finally, we study the problem of learning from a single output trajectory generated from an initial prompt. This provides a mathematical explanation to the tendency of modern LLMs to generate repetitive text. }
 }
 
 @inproceedings{li2024can,
@@ -29,7 +32,8 @@
   booktitle={ICML 2024 Workshop on In-Context Learning},
   year={2024},
   abbr={ICML workshop},
-  pdf={https://openreview.net/pdf?id=LFEzQwYSQS}
+  pdf={https://openreview.net/pdf?id=LFEzQwYSQS},
+  abstract={In this work, we explore the Mamba performance in mixed ICL tasks, in a degree from low to high, and from labeled to unlabeled. We show that Mamba is capable of learning ICL mixtures, reaching the performance of single ICL task and Transformer baselines. Moreover, Mamba converges faster and shows more stable performances than Transformers, allowing Mamba to handle longer context lengths and more complicated prompt structures. Different learning dynamics in different ICL tasks are also observed.},
 }
 
 @inproceedings{li2024mechanics,
@@ -41,7 +45,9 @@
   organization={PMLR},
   abbr={AISTATS},
   arxiv={2403.08081},
-  selected={true}
+  selected={true},
+  abstract={In this work, we ask: What does a single self-attention layer learn from next-token prediction? We show that training self-attention with GD learns an automaton which generates the next token in two distinct steps: (1) Hard retrieval: Given input sequence, self-attention precisely selects the high-priority input tokens associated with the last input token. (2) Soft composition: It then creates a convex combination of the high-priority tokens from which the next token can be sampled. Our theory relies on decomposing the model weights into a directional component and a finite component that correspond to hard retrieval and soft composition steps respectively. },
+  preview={next-token.gif}
 }
 
 
@@ -53,7 +59,9 @@
   year={2023},
   abbr={in submission},
   arxiv={2308.16898},
-  selected={true}
+  selected={true},
+  abstract={In this work, we establish a formal equivalence between the optimization geometry of self-attention and a hard-margin SVM problem that separates optimal input tokens from non-optimal tokens using linear constraints on the outer-products of token pairs. Our findings are applicable to arbitrary datasets and their validity is verified via experiments. },
+  preview={tf=svm.gif}
 }
 
 @article{ataee2023max,
@@ -65,7 +73,9 @@
   year={2023},
   abbr={NeurIPS spotlight},
   arxiv={2306.13596},
-  selected={true}
+  selected={true},
+  abstract={In this work, we explore the seminal softmax-attention model and prove that running gradient descent converges in direction to a max-margin solution that separates locally-optimal tokens from non-optimal ones. This clearly formalizes attention as an optimal token selection mechanism. },
+  preview={max-margin.png}
 }
 
 @article{li2024dissecting,
@@ -76,7 +86,9 @@
   year={2024},
   abbr={NeurIPS},
   arxiv={2305.18869},
-  selected={true}
+  selected={true},
+  abstract={Our study finds that the success of CoT can be attributed to breaking down in-context learning of a compositional function into two distinct phases: focusing on and filtering data related to each step of the composition and in-context learning the single-step composition function. Through both experimental and theoretical evidence, we demonstrate how CoT significantly reduces the sample complexity of ICL and facilitates the learning of complex functions that non-CoT methods struggle with. },
+  preview={cot.png}
 }
 
 
@@ -90,7 +102,9 @@
   organization={PMLR},
   abbr={ICML},
   arxiv={2301.07067},
-  selected={true}
+  selected={true},
+  abstract={In this work, we formalize ICL as an algorithm learning problem where a transformer model implicitly constructs a hypothesis function at inference-time. We first obtain generalization bounds for ICL when the input prompt is (1) a sequence of i.i.d. or (2) a trajectory arising from a dynamical system. We characterize when transformer/attention architecture provably obeys the stability condition and also provide empirical verification. For generalization on unseen tasks, we identify an inductive bias phenomenon in which the transfer learning risk is governed by the task complexity and the number of MTL tasks in a highly predictable manner. },
+  preview={icl.png}
 }
 
 
@@ -103,7 +117,8 @@
   year={2023},
   organization={IEEE},
   abbr={ICASSP},
-  pdf={https://ieeexplore.ieee.org/document/10095627}
+  pdf={https://ieeexplore.ieee.org/document/10095627},
+  preview={fairness.png}
 }
 
 @inproceedings{li2023provable,
@@ -115,7 +130,9 @@
   pages={8701--8710},
   year={2023},
   abbr={AAAI},
-  arxiv={2303.04338}
+  arxiv={2303.04338},
+  abstract={This work explores the pathways proposal from the lens of statistical learning: We first develop novel generalization bounds for ERM problems learning multiple tasks over multiple paths. In conjunction, we formalize the benefits of resulting multipath representation when adapting to new downstream tasks. Our bounds are expressed in terms of Gaussian complexity, lead to tangible guarantees for the class of linear representations, and provide novel insights into the quality and benefits of a multipath representation.},
+  preview={pathway.gif}
 }
 
 @inproceedings{qin2023stochastic,
@@ -151,5 +168,7 @@
   year={2021},
   abbr={AAAI},
   arxiv={2012.08749},
-  selected={true}
+  selected={true},
+  abstract={Recent empirical evidence indicates that the practice of overparameterization not only benefits training large models, but also assists building lightweight models. This paper sheds light on these empirical findings by theoretically characterizing the high-dimensional asymptotics of model pruning in the overparameterized regime. We analytically identify regimes in which, even if the location of the most informative features is known, we are better off fitting a large model and then pruning rather than simply training with the known informative features. This leads to a new double descent in the training of sparse models: growing the original model, while preserving the target sparsity, improves the test accuracy as one moves beyond the overparameterization threshold. Our analysis further reveals the benefit of retraining by relating it to feature correlations. },
+  preview={dd.png}
 }
