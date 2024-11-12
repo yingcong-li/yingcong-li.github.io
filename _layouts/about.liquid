@@ -48,6 +48,7 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    {% comment %}
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -55,6 +56,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
+    {% endcomment %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -64,6 +66,7 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    {% comment %}
     <!-- Social -->
     {% if page.social %}
       <div class="social">
@@ -72,6 +75,7 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+    {% endcomment %}
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
