@@ -22,3 +22,5 @@ I am a PhD student in the Department of Electrical Engineering and Computer Scie
 My research focuses on developing impactful machine learning methods and uncovering their underlying mechanisms. I currently focus on the mathematical understanding of sequence models and exploring the emergent behaviors in generative models. I am always open to new research directions in advancing AI and reducing human labor.
 
 In my free time, I enjoy hiking, rock climbing, and trying out new activities (and, of course, researching :blush:).
+
+<strong><p style="color:red">I am in the academic job market!</p></strong>
