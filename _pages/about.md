@@ -23,4 +23,4 @@ My research focuses on developing impactful machine learning methods and uncover
 
 In my free time, I enjoy hiking, rock climbing, and trying out new activities (and, of course, researching :blush:).
 
-<strong><p style="color:red">I am in the academic job market!</p></strong>
+<strong><font color="red">I am in the academic job market!</font></strong>
