@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper gets accepted by <strong>AISTATS 2025</strong>!
+One paper gets accepted by <strong>AISTATS 2024</strong>.
 <ul>
     <li><a href="https://proceedings.mlr.press/v238/li24f/li24f.pdf">Mechanics of next token prediction with self-attention</a></li>
 </ul>
