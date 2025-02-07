@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk at the <a href="https://ita.ucsd.edu/workshop/">2025 ITA Workshop</a>>! See you soon in San Diego. :ship:
+I will be giving a talk at the <a href="https://ita.ucsd.edu/workshop/">2025 ITA Workshop</a>! See you soon in San Diego. :ship:
 

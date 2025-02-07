@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper gets accepted by <strong>ICML 2024</strong>! 
+One paper gets accepted by <strong>ICML 2024</strong>.
 <ul>
     <li><a href="https://arxiv.org/abs/2402.13512">From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers</a></li>
 </ul>
