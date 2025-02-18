@@ -7,3 +7,4 @@ related_posts: false
 
 I will be giving a talk at the <a href="https://ita.ucsd.edu/workshop/">2025 ITA Workshop</a>! See you soon in San Diego. :ship:
 
+UPDATE: Happy to receive the Sea Prize for my Graduation Day presentation.
