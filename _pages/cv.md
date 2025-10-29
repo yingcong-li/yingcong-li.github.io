@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/resume_YL.pdf
+permalink: /assets/pdf/cv_YL.pdf
 title: cv
 nav: true
 nav_order: 2
