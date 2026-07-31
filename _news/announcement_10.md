@@ -1,8 +1,6 @@
 ---
-layout: post
 date: 2023-06-19 07:59:00-0400
 inline: true
-related_posts: false
 ---
 
 One paper is accepted at ICML 2023 HiLD Workshop.

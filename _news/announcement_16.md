@@ -1,8 +1,6 @@
 ---
-layout: post
 date: 2025-07-07 08:59:00-0400
 inline: true
-related_posts: false
 ---
 
 One paper gets accepted by <strong>COLM 2025</strong>.

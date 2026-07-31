@@ -1,11 +1,9 @@
 ---
-layout: cv
-permalink: /assets/pdf/cv_YL.pdf
+layout: default
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-# cv_pdf: resume_YL_Oct24.pdf
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-# toc:
-#   sidebar: left
 ---
+
+<object data="{{ '/assets/pdf/cv_YL.pdf' | relative_url }}" type="application/pdf" width="100%" height="900"></object>
