@@ -25,3 +25,9 @@ Our group focuses on developing impactful AI methods and uncovering the fundamen
 </ul>
 
 In my free time, I enjoy hiking, rock climbing, skiing, and trying out new activities (and, of course, researching :blush:).
+
+<p style="color: red;">
+  <strong>!!ATTENTION!!</strong> For those who have emailed or plan to email me regarding PhD opportunities:
+  Thanks for your interest in joining our research group. At this time, we do not have PhD openings for Fall 2027.
+  I will respond to your emails accordingly if our recruitment plan changes. Good luck with your applications!
+</p>
